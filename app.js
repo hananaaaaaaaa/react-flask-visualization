@@ -88,7 +88,7 @@ function App() {
                 display: 'flex',
                 alignItems: 'center'
             } 
-        }, '🎬 豆瓣电影数据分析'),
+        }, '豆瓣电影数据分析'),
         
         React.createElement(Layout, null,
             React.createElement(Sider, { 
